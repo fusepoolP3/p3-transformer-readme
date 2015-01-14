@@ -1,8 +1,10 @@
-# `<name>` Transformer
+# `<name>` Transformer [![Build Status](https://travis-ci.org/fusepoolP3/p3-pipeline-transformer.svg)](https://travis-ci.org/fusepoolP3/p3-pipeline-transformer)
 Introduction:
 * Readme should always start with a short introduction
 * Around 3-6 sentences
 * What is it and what is it doing
+* The Travis build status image (if available) should be added to the readme (*suggested by Luigi*)
+* Maybe add the links to the JIRA issues? (*suggested by Luigi*)
 
 ## Try it out
 * Shows the minimum step needed to see some action
