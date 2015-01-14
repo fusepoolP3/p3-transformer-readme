@@ -24,4 +24,4 @@ Introduction:
 * codes and examples should be `code formated` 
 
 ## Additional chapters
-* Any additional chapter should come after Installation and Usage chapters for better readability
+* Any additional chapter should come after the *Try it out*, *Compiling and Running* and *Usage* chapters for better readability
