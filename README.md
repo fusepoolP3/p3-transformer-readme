@@ -4,7 +4,7 @@ Introduction:
 * Around 3-6 sentences
 * What is it and what is it doing
 * The Travis build status image (if available) should be added to the readme (*suggested by Luigi*)
-* Maybe add the links to the JIRA issues? (*suggested by Luigi*)
+* Add the links to the JIRA issues at the end of the readme (*suggested by Luigi*)
 
 ## Try it out
 * Shows the minimum step needed to see some action
@@ -22,8 +22,9 @@ Introduction:
 * Most readmes already contain such information in some form
 * How to invoke the transformer using GET and POST
 * cURL based examples
-* subchapters for better readability
-* codes and examples should be `code formated` 
+* Can contain subchapters for better readability
+* Codes and examples should be `code formated` 
 
 ## Additional chapters
 * Any additional chapter should come after the *Try it out*, *Compiling and Running* and *Usage* chapters for better readability
+
