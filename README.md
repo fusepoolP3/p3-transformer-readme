@@ -4,7 +4,6 @@ Introduction:
 * Around 3-6 sentences
 * What is it and what is it doing
 * The Travis build status image (if available) should be added to the readme (*suggested by Luigi*)
-* Add the links to the JIRA issues at the end of the readme (*suggested by Luigi*)
 
 ## Try it out
 * Shows the minimum step needed to see some action
@@ -28,3 +27,5 @@ Introduction:
 ## Additional chapters
 * Any additional chapter should come after the *Try it out*, *Compiling and Running* and *Usage* chapters for better readability
 
+
+Add the links to the JIRA issues at the end of the readme (*suggested by Luigi*)
