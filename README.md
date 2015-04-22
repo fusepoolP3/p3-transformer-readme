@@ -13,7 +13,7 @@ Introduction:
 ## Compiling and Running
 * Most readmes already contain such information under different chapternames (*Building and running*, *Install and run*, *Building from source*, etc.)
 * How to build it from source and run it
-* (How to run it as binary)
+* How to run it as binary
 * What are the commandline options
 
 ## Usage
